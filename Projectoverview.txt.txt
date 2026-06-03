@@ -1,0 +1,7 @@
+PROJECT OVERVIEW
+
+This project focuses on building an intelligent real-time drone detection and alerting system by combining deep learning, computer vision, motion analysis, and IoT technologies. The system detects aerial objects from live video streams and enhances classification reliability through physics-informed motion analysis.
+
+A YOLOv8-based detection model identifies flying objects, while motion characteristics such as speed, trajectory consistency, and movement stability are used to differentiate drones from birds. The solution also includes an IoT alerting layer using ESP32 and Telegram notifications for real-time threat monitoring.
+
+The project demonstrates the integration of AI, computer vision, and embedded systems to create a practical surveillance solution suitable for security-sensitive environments.

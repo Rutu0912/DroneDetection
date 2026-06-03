@@ -1,0 +1,36 @@
+TECH STACK
+
+Programming Language:
+
+* Python
+
+Machine Learning & Computer Vision:
+
+* YOLOv8
+* OpenCV
+* NumPy
+* Pandas
+
+Motion Analysis:
+
+* Centroid Tracking
+* Trajectory Analysis
+* Speed & Stability Estimation
+
+IoT & Alert System:
+
+* ESP32
+* Telegram Bot API
+* LED & Buzzer Integration
+
+Development Environment:
+
+* Jupyter Notebook
+* Kaggle Notebook
+* Git & GitHub
+
+Deployment Components:
+
+* Real-Time Video Stream Processing
+* Automated Alert Generation
+* Surveillance Monitoring Pipeline

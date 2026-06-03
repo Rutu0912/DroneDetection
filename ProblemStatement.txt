@@ -1,0 +1,7 @@
+PROBLEM STATEMENT
+
+Traditional vision-based drone detection systems often struggle to distinguish drones from visually similar objects such as birds. This results in false alarms and reduced reliability in real-world surveillance scenarios.
+
+The objective of this project is to develop an intelligent detection framework capable of accurately identifying drones while minimizing false positives. The system must operate in real time, analyze object motion patterns, and trigger immediate alerts when a potential drone threat is detected.
+
+The proposed solution combines deep learning-based object detection with motion-based behavioral analysis and IoT-enabled alert mechanisms to improve detection accuracy and operational effectiveness.

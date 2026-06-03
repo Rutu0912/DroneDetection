@@ -1,0 +1,10 @@
+RESULTS
+
+* Successfully developed a real-time drone detection framework using deep learning and motion analysis.
+* Improved classification reliability by incorporating motion-based refinement techniques.
+* Reduced false detections caused by visually similar flying objects such as birds.
+* Achieved stable real-time performance on multiple surveillance video samples.
+* Successfully integrated ESP32-based alert mechanisms for immediate threat notification.
+* Enabled automated Telegram notifications along with visual and acoustic alerts.
+* Demonstrated practical applicability for surveillance and security-focused environments.
+* Validated the end-to-end system from detection to alert generation in real-world testing scenarios.
